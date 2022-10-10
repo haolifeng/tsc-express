@@ -1,0 +1,9 @@
+{
+  "name": "tsc-express",
+  "version": "3.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": "haolifeng/tsc-express",
+  "bin": "cli.js",
+  "dependencies": {}
+}
